@@ -37,5 +37,6 @@ GOOGLE_API_KEY = "YOUR_API_KEY_HERE"
 
 ## How To Run
 streamlit run AI_FAKE_NEWS_DETECTOR.py
-
+## Sample News Image
+A sample news article image (`news2.jpeg`) is included in the repository to demonstrate image upload and analysis.
 
