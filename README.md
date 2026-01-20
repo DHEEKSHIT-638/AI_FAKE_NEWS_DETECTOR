@@ -32,8 +32,10 @@ Steps to get your API key from Google AI Studio:
 - Copy the generated API key
 
 Replace the following line in the code with your copied API key before running:
+
 GOOGLE_API_KEY = "YOUR_API_KEY_HERE"
 
 ## How To Run
 streamlit run AI_FAKE_NEWS_DETECTOR.py
+
 
